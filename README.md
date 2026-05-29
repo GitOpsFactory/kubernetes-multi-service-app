@@ -1,4 +1,7 @@
 # kubernetes-multi-service-app
+
+<img width="1239" height="297" alt="image" src="https://github.com/user-attachments/assets/b5110eb0-29d3-49cf-b2ca-a565896b48bb" />
+
 Kubernetes Multi-Service Project – Short Notes
 Project Overview
 
